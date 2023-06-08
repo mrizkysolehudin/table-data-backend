@@ -35,11 +35,6 @@ router.put("/:id", async (req, res) => {
 			lastName: req?.body?.lastName,
 			email: req?.body?.email,
 			role: req?.body?.role,
-			// status: req?.body?.status,
-			// userStatus: {
-			// 	status: req?.body?.status,
-			// 	statusColor: req?.body?.statusColor,
-			// },
 			userStatus: req?.body?.userStatus,
 		});
 

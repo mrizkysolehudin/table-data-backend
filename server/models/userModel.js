@@ -14,15 +14,6 @@ const userSchema = new mongoose.Schema(
 			type: String,
 			required: [true, "Email is required"],
 		},
-		status: {
-			type: String,
-			required: [true, "Status is required"],
-			enum: ["Free", "On Vacation", "Working", "Busy"],
-		},
-		statusColor: {
-			type: String,
-			enum: ["#0064FF", "#F63F3F", "#404D61", "#F9A348"],
-		},
 		role: {
 			type: String,
 			required: [true, "Role is required"],
