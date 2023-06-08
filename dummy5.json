@@ -1,0 +1,393 @@
+[
+	{
+		"firstName": "Eilis",
+		"lastName": "Horche",
+		"email": "ehorche0@bandcamp.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Financial Analyst",
+		"favoriteColor": "Green",
+		"image": "https://robohash.org/voluptatemvoluptatumnesciunt.png?size=50x50&set=set1",
+		"accountDate": "2022-11-10"
+	},
+	{
+		"firstName": "Maggee",
+		"lastName": "Maillard",
+		"email": "mmaillard1@instagram.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Recruiter",
+		"favoriteColor": "Mauv",
+		"image": "https://robohash.org/recusandaemolestiaecorrupti.png?size=50x50&set=set1",
+		"accountDate": "2022-03-26"
+	},
+	{
+		"firstName": "Alyssa",
+		"lastName": "Chalfain",
+		"email": "achalfain2@mit.edu",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Registered Nurse",
+		"favoriteColor": "Violet",
+		"image": "https://robohash.org/minusquosdeleniti.png?size=50x50&set=set1",
+		"accountDate": "2023-02-15"
+	},
+	{
+		"firstName": "Melamie",
+		"lastName": "Wybron",
+		"email": "mwybron3@pbs.org",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Account Executive",
+		"favoriteColor": "Turquoise",
+		"image": "https://robohash.org/inventoredebitissit.png?size=50x50&set=set1",
+		"accountDate": "2022-06-07"
+	},
+	{
+		"firstName": "Andy",
+		"lastName": "Iacobo",
+		"email": "aiacobo4@exblog.jp",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Staff Accountant I",
+		"favoriteColor": "Green",
+		"image": "https://robohash.org/possimusminimaet.png?size=50x50&set=set1",
+		"accountDate": "2022-09-21"
+	},
+	{
+		"firstName": "Rhett",
+		"lastName": "Castle",
+		"email": "rcastle5@instagram.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Staff Accountant II",
+		"favoriteColor": "Puce",
+		"image": "https://robohash.org/asperioresquisdignissimos.png?size=50x50&set=set1",
+		"accountDate": "2023-05-02"
+	},
+	{
+		"firstName": "Anetta",
+		"lastName": "Moscrop",
+		"email": "amoscrop6@ca.gov",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Quality Engineer",
+		"favoriteColor": "Maroon",
+		"image": "https://robohash.org/eumrepellendusquae.png?size=50x50&set=set1",
+		"accountDate": "2022-12-17"
+	},
+	{
+		"firstName": "Milty",
+		"lastName": "Dudhill",
+		"email": "mdudhill7@yelp.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Human Resources Manager",
+		"favoriteColor": "Goldenrod",
+		"image": "https://robohash.org/velnonvero.png?size=50x50&set=set1",
+		"accountDate": "2022-01-06"
+	},
+	{
+		"firstName": "Lyndy",
+		"lastName": "Lampet",
+		"email": "llampet8@huffingtonpost.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Product Manager",
+		"favoriteColor": "Blue",
+		"image": "https://robohash.org/quibusdamsedid.png?size=50x50&set=set1",
+		"accountDate": "2023-03-12"
+	},
+	{
+		"firstName": "Deane",
+		"lastName": "Jarvie",
+		"email": "djarvie9@boston.com",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Software Engineer",
+		"favoriteColor": "Purple",
+		"image": "https://robohash.org/voluptatibusrerumex.png?size=50x50&set=set1",
+		"accountDate": "2022-08-03"
+	},
+	{
+		"firstName": "Helen",
+		"lastName": "Stone",
+		"email": "hstonea@amazon.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Graphic Designer",
+		"favoriteColor": "Yellow",
+		"image": "https://robohash.org/eumnecessitatibusnatus.png?size=50x50&set=set1",
+		"accountDate": "2023-01-28"
+	},
+	{
+		"firstName": "Raynor",
+		"lastName": "Kleinbaum",
+		"email": "rkleinbaumb@unicef.org",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Marketing Manager",
+		"favoriteColor": "Cyan",
+		"image": "https://robohash.org/rationevoluptasnon.png?size=50x50&set=set1",
+		"accountDate": "2022-07-19"
+	},
+	{
+		"firstName": "Carline",
+		"lastName": "Geraudel",
+		"email": "cgeraudelc@w3.org",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Project Manager",
+		"favoriteColor": "Teal",
+		"image": "https://robohash.org/quamidofficiis.png?size=50x50&set=set1",
+		"accountDate": "2023-04-14"
+	},
+	{
+		"firstName": "Devland",
+		"lastName": "Phear",
+		"email": "dpheard@github.io",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Data Analyst",
+		"favoriteColor": "Red",
+		"image": "https://robohash.org/quiadoloresnostrum.png?size=50x50&set=set1",
+		"accountDate": "2022-05-30"
+	},
+	{
+		"firstName": "Harper",
+		"lastName": "Bergen",
+		"email": "hbergene@ycombinator.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Software Developer",
+		"favoriteColor": "Orange",
+		"image": "https://robohash.org/sapientequoarchitecto.png?size=50x50&set=set1",
+		"accountDate": "2023-02-07"
+	},
+	{
+		"firstName": "Samantha",
+		"lastName": "Mitchell",
+		"email": "samantham@example.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Sales Representative",
+		"favoriteColor": "Purple",
+		"image": "https://robohash.org/samanthamitchell.png?size=50x50&set=set1",
+		"accountDate": "2023-05-12"
+	},
+	{
+		"firstName": "Daniel",
+		"lastName": "Carter",
+		"email": "danielc@example.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Accountant",
+		"favoriteColor": "Blue",
+		"image": "https://robohash.org/danielcarter.png?size=50x50&set=set1",
+		"accountDate": "2023-03-20"
+	},
+	{
+		"firstName": "Olivia",
+		"lastName": "Wright",
+		"email": "oliviaw@example.com",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Human Resources Manager",
+		"favoriteColor": "Pink",
+		"image": "https://robohash.org/oliviawright.png?size=50x50&set=set1",
+		"accountDate": "2023-01-15"
+	},
+	{
+		"firstName": "Benjamin",
+		"lastName": "Roberts",
+		"email": "benjaminr@example.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "IT Specialist",
+		"favoriteColor": "Green",
+		"image": "https://robohash.org/benjaminroberts.png?size=50x50&set=set1",
+		"accountDate": "2023-04-02"
+	},
+	{
+		"firstName": "Sophia",
+		"lastName": "Walker",
+		"email": "sophiaw@example.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Customer Support",
+		"favoriteColor": "Yellow",
+		"image": "https://robohash.org/sophiawalker.png?size=50x50&set=set1",
+		"accountDate": "2023-02-28"
+	},
+	{
+		"firstName": "Emily",
+		"lastName": "Wilson",
+		"email": "emilyw@example.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Marketing Coordinator",
+		"favoriteColor": "Orange",
+		"image": "https://robohash.org/emilywilson.png?size=50x50&set=set1",
+		"accountDate": "2023-07-10"
+	},
+	{
+		"firstName": "James",
+		"lastName": "Anderson",
+		"email": "jamesa@example.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Project Manager",
+		"favoriteColor": "Red",
+		"image": "https://robohash.org/jamesanderson.png?size=50x50&set=set1",
+		"accountDate": "2023-09-05"
+	},
+	{
+		"firstName": "Ava",
+		"lastName": "Harris",
+		"email": "avah@example.com",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Sales Manager",
+		"favoriteColor": "Blue",
+		"image": "https://robohash.org/avaharris.png?size=50x50&set=set1",
+		"accountDate": "2023-08-22"
+	},
+
+	{
+		"firstName": "Mason",
+		"lastName": "Martinez",
+		"email": "masonm@example.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Software Engineer",
+		"favoriteColor": "Green",
+		"image": "https://robohash.org/masonmartinez.png?size=50x50&set=set1",
+		"accountDate": "2023-11-17"
+	},
+	{
+		"firstName": "Isabella",
+		"lastName": "Young",
+		"email": "isabellay@example.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Graphic Designer",
+		"favoriteColor": "Purple",
+		"image": "https://robohash.org/isabellayoung.png?size=50x50&set=set1",
+		"accountDate": "2023-10-03"
+	},
+	{
+		"firstName": "Oliver",
+		"lastName": "Taylor",
+		"email": "olivert@example.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "Accountant",
+		"favoriteColor": "Blue",
+		"image": "https://robohash.org/olivertaylor.png?size=50x50&set=set1",
+		"accountDate": "2023-12-01"
+	},
+	{
+		"firstName": "Sophia",
+		"lastName": "Clark",
+		"email": "sophiac@example.com",
+		"userStatus": {
+			"status": "Free",
+			"statusColor": "#0064FF"
+		},
+		"role": "Customer Support",
+		"favoriteColor": "Pink",
+		"image": "https://robohash.org/sophiaclark.png?size=50x50&set=set1",
+		"accountDate": "2023-09-18"
+	},
+	{
+		"firstName": "Jack",
+		"lastName": "Baker",
+		"email": "jackb@example.com",
+		"userStatus": {
+			"status": "Busy",
+			"statusColor": "#F63F3F"
+		},
+		"role": "Sales Representative",
+		"favoriteColor": "Yellow",
+		"image": "https://robohash.org/jackbaker.png?size=50x50&set=set1",
+		"accountDate": "2023-11-25"
+	},
+	{
+		"firstName": "Lily",
+		"lastName": "Gonzalez",
+		"email": "lilyg@example.com",
+		"userStatus": {
+			"status": "Working",
+			"statusColor": "#404D61"
+		},
+		"role": "Marketing Manager",
+		"favoriteColor": "Green",
+		"image": "https://robohash.org/lilygonzalez.png?size=50x50&set=set1",
+		"accountDate": "2023-10-12"
+	},
+	{
+		"firstName": "William",
+		"lastName": "Rodriguez",
+		"email": "williamr@example.com",
+		"userStatus": {
+			"status": "On Vacation",
+			"statusColor": "#F9A348"
+		},
+		"role": "HR Specialist",
+		"favoriteColor": "Purple",
+		"image": "https://robohash.org/williamrodriguez.png?size=50x50&set=set1",
+		"accountDate": "2023-08-06"
+	}
+]
